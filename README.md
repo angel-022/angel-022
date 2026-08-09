@@ -17,6 +17,7 @@
 ```typescript
 const zaineb = {
   role: "Frontend Developer",
+  currentProject: "Yaqeen",
   languages: ["JavaScript", "TypeScript"],
   library: "React",
   quality: ["Testing", "Accessible UI", "Reusable Components"],
@@ -25,6 +26,23 @@ const zaineb = {
 ```
 
 I enjoy building clean interfaces where strong engineering and thoughtful design meet. My focus is on maintainable components, reliable tests, and experiences that feel effortless to use.
+
+## 🌿 Current Project
+
+<div align="center">
+  <h3><a href="https://github.com/angel-022/Yaqeen">Yaqeen</a></h3>
+  <p>
+    A spiritually uplifting web and mobile platform for authentic Islamic resources,<br />
+    daily guidance, community connection, and AI-assisted support.
+  </p>
+
+  <img src="https://img.shields.io/badge/Next.js-fff1f5?style=flat-square&logo=next.js&logoColor=831843" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-fce7f3?style=flat-square&logo=typescript&logoColor=9d174d" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Django-f3e8ff?style=flat-square&logo=django&logoColor=6b21a8" alt="Django" />
+  <img src="https://img.shields.io/badge/FastAPI-ecfdf5?style=flat-square&logo=fastapi&logoColor=047857" alt="FastAPI" />
+</div>
+
+I am currently building Yaqeen's frontend experience while learning how to create an accessible, bilingual product across web and mobile.
 
 ## 🪻 Tech Garden
 
