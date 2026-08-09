@@ -1,39 +1,50 @@
 <div align="center">
-  <img src="https://profile-counter.glitch.me/angel-022/count.svg?"  />
+  <img src="./assets/zaineb-floral-header.svg" width="100%" alt="Zaineb Marzaq floral profile banner" />
+
+  <h1>𝒁𝙖𝒊𝙣𝒆𝙗 𝙈𝒂𝙧𝒛𝙖𝒒 🌸</h1>
+  <p><strong>Frontend Developer · JavaScript · TypeScript · React</strong></p>
+  <p>Turning thoughtful ideas into polished, accessible web experiences.</p>
+
+  <a href="https://github.com/angel-022">
+    <img src="https://img.shields.io/badge/GitHub-angel--022-831843?style=for-the-badge&logo=github&logoColor=white" alt="Zaineb's GitHub profile" />
+  </a>
 </div>
 
-###
+---
+
+## 🌷 About Me
+
+```typescript
+const zaineb = {
+  role: "Frontend Developer",
+  languages: ["JavaScript", "TypeScript"],
+  library: "React",
+  quality: ["Testing", "Accessible UI", "Reusable Components"],
+  motto: "Create with care, refine with purpose"
+};
+```
+
+I enjoy building clean interfaces where strong engineering and thoughtful design meet. My focus is on maintainable components, reliable tests, and experiences that feel effortless to use.
+
+## 🪻 Tech Garden
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angel-022&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=angel-022&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,jest,storybook,html,css,git&theme=light" alt="JavaScript, TypeScript, React, Jest, Storybook, HTML, CSS, and Git" />
 </div>
 
-###
+## 🌺 GitHub Snapshot
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=angel-022&theme=rose_pine" height="165" alt="Zaineb's GitHub statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angel-022&theme=rose_pine" height="165" alt="Zaineb's repositories by language" />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/angel-022/angel-022/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angel-022&theme=rose_pine" width="700" alt="Zaineb's GitHub contribution details" />
 </div>
 
-###
+---
+
+<div align="center">
+  <strong>Code with intention. Bloom with every commit. 🌸</strong>
+</div>
